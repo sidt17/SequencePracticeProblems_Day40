@@ -1,6 +1,6 @@
- let a= Math.floor(Math.random() * 10);
+ //UC-1 Use Random Function to get va single digit
+
+let a= Math.floor(Math.random() * 10);
  //console.log("The single digit number is :" + a);
 
 
- let dicenumber =Math.floor(Math.random() *6)+1;
- console.log("Dice Number is :" + dicenumber);
